@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "browserslist": "^4.21.10",
+    "caniuse-lite": "^1.0.30001519",
     "http-status": "1.5.0",
     "next": "10.0.3",
     "react": "17.0.1",
